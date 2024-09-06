@@ -8,5 +8,7 @@
   <p align="center">
     (Server side only / server friendly)
     <br />
+    Nexusmods: https://www.nexusmods.com/7daystodie/mods/6081
+    <br />
   </p>
 </div>
