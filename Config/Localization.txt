@@ -1,0 +1,26 @@
+Key,english,turkish
+U1PipeBomb,Ultimate Tier 1 Pipe Bomb,Ultimate Tier 1 Boru Bombası
+U2PipeBomb,Ultimate Tier 2 Pipe Bomb,Ultimate Tier 2 Boru Bombası
+U3PipeBomb,Ultimate Tier 3 Pipe Bomb,Ultimate Tier 3 Boru Bombası
+U4PipeBomb,Ultimate Tier 4 Pipe Bomb,Ultimate Tier 4 Boru Bombası
+U5PipeBomb,Ultimate Tier 5 Pipe Bomb,Ultimate Tier 5 Boru Bombası
+U1Dinamit,Ultimate Tier 1 Dynamite,Ultimate Tier 1 Dinamit
+U2Dinamit,Ultimate Tier 2 Dynamite,Ultimate Tier 2 Dinamit
+U3Dinamit,Ultimate Tier 3 Dynamite,Ultimate Tier 3 Dinamit
+U4Dinamit,Ultimate Tier 4 Dynamite,Ultimate Tier 4 Dinamit
+U5Dinamit,Ultimate Tier 5 Dynamite,Ultimate Tier 5 Dinamit
+U1Grenade,Ultimate Tier 1 Grenade,Ultimate Tier 1 El Bombası
+U2Grenade,Ultimate Tier 2 Grenade,Ultimate Tier 2 El Bombası
+U3Grenade,Ultimate Tier 3 Grenade,Ultimate Tier 3 El Bombası
+U4Grenade,Ultimate Tier 4 Grenade,Ultimate Tier 4 El Bombası
+U5Grenade,Ultimate Tier 5 Grenade,Ultimate Tier 5 El Bombası
+U1GrenadeContact,Ultimate Tier 1 Contact Grenade,Ultimate Tier 1 Temasta Patlayan Bomba
+U2GrenadeContact,Ultimate Tier 2 Contact Grenade,Ultimate Tier 2 Temasta Patlayan Bomba
+U3GrenadeContact,Ultimate Tier 3 Contact Grenade,Ultimate Tier 3 Temasta Patlayan Bomba
+U4GrenadeContact,Ultimate Tier 4 Contact Grenade,Ultimate Tier 4 Temasta Patlayan Bomba
+U5GrenadeContact,Ultimate Tier 5 Contact Grenade,Ultimate Tier 5 Temasta Patlayan Bomba
+U1TimedCharge,Ultimate Tier 1 Timed Charge,Ultimate Tier 1 Saatli Bomba
+U2TimedCharge,Ultimate Tier 2 Timed Charge,Ultimate Tier 2 Saatli Bomba
+U3TimedCharge,Ultimate Tier 3 Timed Charge,Ultimate Tier 3 Saatli Bomba
+U4TimedCharge,Ultimate Tier 4 Timed Charge,Ultimate Tier 4 Saatli Bomba
+U5TimedCharge,Ultimate Tier 5 Timed Charge,Ultimate Tier 5 Saatli Bomba
