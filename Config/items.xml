@@ -16,6 +16,7 @@
 			<property name="Stacknumber" value="20" />
 			<property name="EconomicValue" value="60" />
 			<property name="TraderStageTemplate" value="baseTier1" />
+			<property name="UnlockedBy" value="craftingExplosives" />
 			<!-- Bloka vurulan hasar, Varlığa vurulan hasar, Parçacık patlama efekti, Blok yarıçapı, Varlık yarıçapı, Toprağa bonus hasar -->
 			<property name="Weight" value="0" />
 			<property name="Explosion.BlockDamage" value="5" />
