@@ -1,0 +1,45 @@
+CHAOS RELICS: ULTIMATE TIER EXPLOSIVES - v2.2 CHANGELOG
+===========================================================
+
+🎮 GAME COMPATIBILITY UPDATE
+• Updated mod for full 7 Days to Die v2.2 compatibility
+• Added required "UnlockedBy=craftingExplosives" parameter to all 30 explosive items
+• Preserved original Ultimate Tier system and damage values
+• No gameplay changes - only technical compatibility updates
+
+🌍 LOCALIZATION EXPANSION
+• Expanded from 2 languages to 12 languages total
+• Added support for:
+  - German (Deutsch)
+  - Spanish (Español)
+  - French (Français)
+  - Italian (Italiano)
+  - Japanese (日本語)
+  - Korean (한국어)
+  - Polish (Polski)
+  - Brazilian Portuguese (Português Brasileiro)
+  - Russian (Русский)
+  - Simplified Chinese (简体中文)
+  - Traditional Chinese (繁體中文)
+• Maintained existing English and Turkish translations
+
+🔧 TECHNICAL IMPROVEMENTS
+• Updated ModInfo.xml with v2.2 compatibility information
+• Refreshed documentation files (README.md)
+• Updated Nexusmods description with current version info
+• All 30 explosive items retain their Ultimate Tier progression system
+
+📋 UNCHANGED FEATURES
+• Ultimate Tier 1-5 system preserved
+• All 6 explosive types maintained (Pipe Bombs, Dynamite, Grenades, Contact Grenades, Timed Charges)
+• Original damage values kept (312-1900 entity damage range)
+• Explosion radius values unchanged (5-10 range)
+• All crafting recipes remain the same
+
+⚠️ INSTALLATION NOTES
+• Backup your save before updating
+• Remove old version before installing v2.2
+• Game restart recommended after installation
+• Compatible with existing saves (items will update automatically)
+
+For support: goneexxl@gmail.com
